@@ -1,0 +1,30 @@
+.input-tarea {
+    width: 250px;
+    background-color: rgb(212, 212, 212);
+    padding: 10px 15px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.boton-enviar {
+    width: 120px;
+    background-color: blue;
+    color: white;
+    padding: 15px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.error {
+    width: 200px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px 15px;
+    margin: -15px 0 15px;
+}

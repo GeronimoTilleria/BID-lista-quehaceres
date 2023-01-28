@@ -1,0 +1,30 @@
+.contenedor-tarea {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenedor-texto {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.contenedor-texto p,
+.contenedor-texto input {
+    margin: 0;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.tarea-completada {
+    text-decoration: line-through;
+}
+
+.boton-delete{
+    width: 120px;
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    font-size: 20px;
+    border-radius: 5px;
+}
